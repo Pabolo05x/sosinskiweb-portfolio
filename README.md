@@ -29,6 +29,7 @@ Projekt został zoptymalizowany pod kątem najwyższych standardów Google PageS
 * **Critical CSS:** Użycie Tailwind CSS pozwoliło na usunięcie nieużywanych stylów i błyskawiczne renderowanie drzewa DOM.
 * **Async & Defer:** Asynchroniczne ładowanie skryptów (FontAwesome, Confetti) zapobiega blokowaniu renderowania strony.
 * **Semantic HTML:** Poprawna struktura tagów, co przełożyło się na wynik 100/100 w kategorii SEO i wysoki wskaźnik Accessibility.
+  ![Google PageSpeed Insights Score](pagespeed-score.jpg)
 
 ## 🔗 Live Demo
 Projekt dostępny pod adresem: [https://sosinskiweb.pl](https://sosinskiweb.pl)
