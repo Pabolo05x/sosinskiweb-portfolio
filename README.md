@@ -1,6 +1,11 @@
 # 🚀 SosinskiWeb - Personal Portfolio
 
+![Podgląd Portfolio](portfolio-preview.jpg)
+
 Nowoczesna strona typu landing page stworzona dla marki osobistej. Projekt skupia się na wysokiej wydajności, czystym kodzie oraz responsywności (Mobile First).
+
+## 🚀 Live Demo
+[https://sosinskiweb.pl](https://sosinskiweb.pl)
 
 ## 🛠️ Stack Techniczny
 * **Frontend:** HTML5 (Semantyczny), Tailwind CSS, JavaScript (ES6+)
@@ -31,5 +36,3 @@ Projekt został zoptymalizowany pod kątem najwyższych standardów Google PageS
 * **Semantic HTML:** Poprawna struktura tagów, co przełożyło się na wynik 100/100 w kategorii SEO i wysoki wskaźnik Accessibility.
   ![Google PageSpeed Insights Score](pagespeed-score.jpg)
 
-## 🔗 Live Demo
-Projekt dostępny pod adresem: [https://sosinskiweb.pl](https://sosinskiweb.pl)
